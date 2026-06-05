@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "MIWUsoOiJP7PljloQpjL2zm6-LtHDbok",
+        "plugin": "obsidian42-brat",
+        "language": "zh-cn",
+        "version": "2.0.8",
+        "supported_versions": "2.0.8",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks\n基于DeepSeek",
+        "hash": "6807742b6807742b6807742b6807742b",
+        "created_at": "2026-06-05T15:46:14.029Z",
+        "updated_at": "2026-06-05T15:46:14.029Z",
+        "type": "plugin"
+    }
+]
